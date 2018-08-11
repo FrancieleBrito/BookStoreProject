@@ -1,0 +1,11 @@
+C:\Users\Franciele\Documents\BookStore\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\Franciele\Documents\BookStore\BookStore\bin\Debug\BookStore.exe
+C:\Users\Franciele\Documents\BookStore\BookStore\bin\Debug\BookStore.pdb
+C:\Users\Franciele\Documents\BookStore\BookStore\obj\Debug\BookStore.csprojAssemblyReference.cache
+C:\Users\Franciele\Documents\BookStore\BookStore\obj\Debug\BookStore.Bookstore.resources
+C:\Users\Franciele\Documents\BookStore\BookStore\obj\Debug\BookStore.Promo.resources
+C:\Users\Franciele\Documents\BookStore\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+C:\Users\Franciele\Documents\BookStore\BookStore\obj\Debug\BookStore.csproj.GenerateResource.cache
+C:\Users\Franciele\Documents\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\Franciele\Documents\BookStore\BookStore\obj\Debug\BookStore.exe
+C:\Users\Franciele\Documents\BookStore\BookStore\obj\Debug\BookStore.pdb
