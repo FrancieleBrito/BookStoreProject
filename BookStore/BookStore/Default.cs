@@ -19,6 +19,7 @@ namespace BookStore
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            // This is just for the testing purposes 
 
         }
 
@@ -37,8 +38,7 @@ namespace BookStore
             this.Hide();
             Promo promoForm = new Promo();
             promoForm.ShowDialog();
-
-
+            this.Close();
         }
     }
 }
