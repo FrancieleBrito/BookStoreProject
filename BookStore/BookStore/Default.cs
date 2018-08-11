@@ -25,12 +25,12 @@ namespace BookStore
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            // This button is for bla bla 
         }
 
         private void btnPublisher_Click(object sender, EventArgs e)
         {
-
+            // This button here for displaying the information about the publishers
         }
 
         private void btnPromotion_Click(object sender, EventArgs e)
@@ -38,7 +38,7 @@ namespace BookStore
             this.Hide();
             Promo promoForm = new Promo();
             promoForm.ShowDialog();
-            this.Close();
+            //this.Close();
         }
     }
 }
